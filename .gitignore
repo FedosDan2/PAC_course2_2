@@ -1,3 +1,6 @@
 mvenv
 .vscode
 archive
+model
+test
+train
