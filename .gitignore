@@ -2,5 +2,4 @@ mvenv
 .vscode
 archive
 model
-test
-train
+data
