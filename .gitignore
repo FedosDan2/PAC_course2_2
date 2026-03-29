@@ -2,4 +2,6 @@ mvenv
 .vscode
 archive
 model
+models
+learn
 data
